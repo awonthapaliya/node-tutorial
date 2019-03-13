@@ -1,0 +1,14 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "First Express js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo "
+  },
+  "author": "Awon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
